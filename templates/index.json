@@ -54,7 +54,7 @@
         "full_width": true,
         "remove_vertical_spacing": true,
         "remove_horizontal_spacing": true,
-        "liquid": "<div style=\"text-align: center; width: 100%;\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0681/1290/8348/files/hf_20260218_020243_d31c9842-9e52-4f6f-9610-12586646ffa6_1.png?v=1771380359\" \n    alt=\"Reseezs Cabello\" \n    style=\"width: 100%; height: auto; display: block; margin: 0 auto;\">\n</div>",
+        "liquid": "<div style=\"text-align: center; width: 100%;\">\n  <img \n    src=\"https://cdn.shopify.com/s/files/1/0748/4869/8556/files/hf_20260307_160026_b0bcd077-2994-4854-be41-89f5f5dc3815_2.jpg?v=1772899774\" \n    alt=\"Reseezs Cabello\" \n    style=\"width: 100%; height: auto; display: block; margin: 0 auto;\">\n</div>",
         "background": "",
         "background_gradient": "linear-gradient(180deg, rgba(244, 246, 249, 1), rgba(244, 246, 249, 1) 100%)",
         "text_color": ""
